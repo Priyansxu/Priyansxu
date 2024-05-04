@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=FFFFFF&random=false&width=435&lines=Welcome+to+my+GitHub+account!+Check+out+my+website+https%3A%2F%2Fpriyanshu.is-a.dev+to+know+more+about+me." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=00F9FF&random=false&width=435&lines=Welcome+to+my+GitHub+account!+Check+out+my+website+https%3A%2F%2Fpriyanshu.is-a.dev+to+know+more+about+me." alt="Typing SVG" /></a>
